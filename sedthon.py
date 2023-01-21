@@ -575,7 +575,7 @@ async def _(event):
 ☆ البنك : `{ms}`
 ☆ التاريخ : `{m9zpi}`
 ☆ الايدي : `{event.sender_id}`
-☆ تـوب سـورس : @s_4_g1**
+☆ تـوب سـورس : @Sourceanas**
 ''')
 
 
